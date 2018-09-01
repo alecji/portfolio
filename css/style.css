@@ -169,7 +169,7 @@ button.navbar-toggle {
 
 .about {
   padding-top: 10%;
-  padding-bottom: 7%;
+  padding-bottom: 7%; 
   font: 20px "Oswald", sans-serif;
   letter-spacing: 20px;
   text-align: center;
@@ -198,7 +198,7 @@ button.navbar-toggle {
 
 .bgimg-2{
   background-image: url('https://image.ibb.co/jff1ma/tumblr_static_78g6a378ny0w00w0og0s0ww48.png');
-  min-height: 400px;
+  min-height: 150px;
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
@@ -365,7 +365,7 @@ button a:active {
 
 .bgimg-3 {
   background-image: url('https://preview.ibb.co/kx5oCF/z5FnCRM.jpg');
-  min-height: 400px;
+  min-height: 150px;
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
