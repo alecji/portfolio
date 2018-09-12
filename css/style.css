@@ -56,15 +56,14 @@ button.navbar-toggle {
 
 /*mobile*/
 
-
 .bgimg-1 {
   background-image: url('../images/profile-img.jpg');
   min-height: 100%;
   background-size: cover;
   background-repeat: no-repeat;
   background-attachment: fixed;
-  
 }
+
 
 .intro  {
   position: relative;
@@ -77,19 +76,22 @@ button.navbar-toggle {
   margin-left:auto;
   margin-right:auto;
   top: 48%;
+
+ 
 }
 
 
 
- @media only screen and (max-device-width: 480px) { 
+ @media only screen and (min-device-width: 480px) {
   .bgimg-1 {
   background-image: url('../images/profile-img.jpg');
   min-height: 100%;
-  background-size: cover;
+
+  background-size: cover; 
   background-repeat: no-repeat;
   background-attachment: fixed;
-   }    
- }   
+  }    
+}    
 
 
 .intro  {
